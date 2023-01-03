@@ -145,7 +145,7 @@ body {
 }
 .studio-link:hover,
 .studio-link:focus {
-    color: var(--titele-color);
+    color: var(--button-active-color);
 }
 .studio-link:active {
     color: var(--button-active-color);
@@ -168,7 +168,7 @@ body {
 }
 .portfolio-link:hover,
 .portfolio-link:focus {
-    color: var(--titele-color);
+    color: var(--button-active-color);
 }
 .portfolio-link:active {
     color: var(--button-active-color);
@@ -191,7 +191,7 @@ body {
 
 .contacts-link:hover,
 .contacts-link:focus {
-    color: var(--titele-color);
+    color: var(--button-active-color);
 }
 .contacts-link:active {
     color: var(--button-active-color);
@@ -212,7 +212,7 @@ body {
 }
 .contacts-mail:hover,
 .contacts-mail:focus {
-    color: var(--body-text-color);
+    color: var(--button-active-color);
 }
 .contacts-mail:active {
     color: var(--button-active-color);
@@ -234,7 +234,7 @@ body {
 }
 .contacts-tel:hover,
 .contacts-tel:focus {
-    color: var(--body-text-color);
+    color: var(--button-active-color);
 }
 
 .contacts-tel:active {
